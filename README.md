@@ -1,7 +1,7 @@
 ![GODOT](/logo.png)
 
-### This is my branch of godot with marynates changes,
-### My Changes are mostly UI "improvements"
+## This is my fork of godot with marynates changes,
+## My Changes are mostly UI "improvements"
 
 ### Build Status
 
