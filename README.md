@@ -1,5 +1,8 @@
 ![GODOT](/logo.png)
 
+### This is my branch of godot with marynates changes,
+### My Changes are mostly UI "improvements"
+
 ### Build Status
 
 master: [![Build Status](https://travis-ci.org/marynate/godot.svg?branch=master)](https://travis-ci.org/marynate/godot)
